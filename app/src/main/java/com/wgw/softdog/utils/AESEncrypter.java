@@ -13,7 +13,7 @@ public class AESEncrypter {
 
 	public static void main(String[] args) throws Exception {
 
-		 String KEY = "1&a^z23(45w)sx";
+		 String KEY = "123456789";
 		 
 		String content = "zhaoshengtang@163.com";
 		System.out.println("加密前：" + content);
